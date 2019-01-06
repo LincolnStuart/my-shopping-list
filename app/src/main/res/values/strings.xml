@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Shopping List</string>
+    <string name="title">Title</string>
+    <string name="submit">Submit!</string>
 </resources>

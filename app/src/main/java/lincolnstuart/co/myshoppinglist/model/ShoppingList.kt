@@ -4,7 +4,7 @@ import java.util.*
 
 class ShoppingList {
 
-    var date: Date? = null
+    var date: Date = Date()
     var title: String? = null
     var items: List<Item>? = null
 
